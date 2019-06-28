@@ -3,8 +3,8 @@
   "version": "0.11.0",
   "private": true,
   "dependencies": {
-    "@elastic/react-search-ui": "0.11.0",
-    "@elastic/react-search-ui-views": "0.11.0",
+    "@elastic/react-search-ui": "^0.11.1-alpha.0",
+    "@elastic/react-search-ui-views": "^0.11.1-alpha.0",
     "@elastic/search-ui": "0.11.0",
     "@elastic/search-ui-app-search-connector": "0.11.0",
     "@elastic/search-ui-site-search-connector": "0.11.0",
